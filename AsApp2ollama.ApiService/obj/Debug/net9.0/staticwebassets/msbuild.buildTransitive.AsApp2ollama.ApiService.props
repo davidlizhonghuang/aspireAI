@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\AsApp2ollama.ApiService.props" />
+</Project>

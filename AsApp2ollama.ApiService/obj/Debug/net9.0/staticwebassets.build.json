@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "3+Z9gdQYtXGO83S2qn03vCjJ9FHDG+lVDaQ9sWdMSiw=",
+  "Source": "AsApp2ollama.ApiService",
+  "BasePath": "_content/AsApp2ollama.ApiService",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

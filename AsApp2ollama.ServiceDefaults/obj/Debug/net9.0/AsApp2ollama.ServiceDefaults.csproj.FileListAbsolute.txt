@@ -1,0 +1,12 @@
+C:\Users\AG_2021SER01\source\repos\AsApp2ollama\AsApp2ollama.ServiceDefaults\bin\Debug\net9.0\AsApp2ollama.ServiceDefaults.deps.json
+C:\Users\AG_2021SER01\source\repos\AsApp2ollama\AsApp2ollama.ServiceDefaults\bin\Debug\net9.0\AsApp2ollama.ServiceDefaults.dll
+C:\Users\AG_2021SER01\source\repos\AsApp2ollama\AsApp2ollama.ServiceDefaults\bin\Debug\net9.0\AsApp2ollama.ServiceDefaults.pdb
+C:\Users\AG_2021SER01\source\repos\AsApp2ollama\AsApp2ollama.ServiceDefaults\obj\Debug\net9.0\AsApp2ollama.ServiceDefaults.csproj.AssemblyReference.cache
+C:\Users\AG_2021SER01\source\repos\AsApp2ollama\AsApp2ollama.ServiceDefaults\obj\Debug\net9.0\AsApp2ollama.ServiceDefaults.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AG_2021SER01\source\repos\AsApp2ollama\AsApp2ollama.ServiceDefaults\obj\Debug\net9.0\AsApp2ollama.ServiceDefaults.AssemblyInfoInputs.cache
+C:\Users\AG_2021SER01\source\repos\AsApp2ollama\AsApp2ollama.ServiceDefaults\obj\Debug\net9.0\AsApp2ollama.ServiceDefaults.AssemblyInfo.cs
+C:\Users\AG_2021SER01\source\repos\AsApp2ollama\AsApp2ollama.ServiceDefaults\obj\Debug\net9.0\AsApp2ollama.ServiceDefaults.csproj.CoreCompileInputs.cache
+C:\Users\AG_2021SER01\source\repos\AsApp2ollama\AsApp2ollama.ServiceDefaults\obj\Debug\net9.0\AsApp2ollama.ServiceDefaults.dll
+C:\Users\AG_2021SER01\source\repos\AsApp2ollama\AsApp2ollama.ServiceDefaults\obj\Debug\net9.0\refint\AsApp2ollama.ServiceDefaults.dll
+C:\Users\AG_2021SER01\source\repos\AsApp2ollama\AsApp2ollama.ServiceDefaults\obj\Debug\net9.0\AsApp2ollama.ServiceDefaults.pdb
+C:\Users\AG_2021SER01\source\repos\AsApp2ollama\AsApp2ollama.ServiceDefaults\obj\Debug\net9.0\ref\AsApp2ollama.ServiceDefaults.dll

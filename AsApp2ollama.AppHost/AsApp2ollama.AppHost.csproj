@@ -1,0 +1,25 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <Sdk Name="Aspire.AppHost.Sdk" Version="9.0.0" />
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net9.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <IsAspireHost>true</IsAspireHost>
+    <UserSecretsId>cea5e793-7df9-452d-91e2-4b9f39782153</UserSecretsId>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\AsApp2ollama.ApiService\AsApp2ollama.ApiService.csproj" />
+    <ProjectReference Include="..\AsApp2ollama.Web\AsApp2ollama.Web.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Aspire.Hosting.AppHost" Version="9.1.0" />
+    <PackageReference Include="Aspire.Hosting.Redis" Version="9.1.0" />
+    <PackageReference Include="Communitytoolkit.aspire.hosting.ollama" Version="9.2.1" />
+  </ItemGroup>
+
+</Project>

@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\AsApp2ollama.ApiService.props" />
+</Project>
