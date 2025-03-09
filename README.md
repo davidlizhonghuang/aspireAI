@@ -33,4 +33,11 @@ use azure deveploer CLI to do so
 >azd up command will stsrt deployment steps to push entire solution to cloud and implement it.
 >
 >azd monitor will monitor all steps.
+>
+## Test
+
+open web AI agent to input query, LLama returns expected result see below
+
+![image](https://github.com/user-attachments/assets/fd12edd6-8067-4f34-90d3-ab7d51625995)
+
 
