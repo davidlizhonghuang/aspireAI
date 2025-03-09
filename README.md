@@ -1,4 +1,4 @@
-#Develop AI agent with .Net Aspire
+## Develop AI agent with .Net Aspire
 
 .Net Aspire is running under .Net8/9 frameowrk. it is the new .net dev tool to be used to develop distributed app, api service, blazor, opentlemetry, and app host app can be built and dployed in one solution. this one-stop solntion can be deployed into cloud as distributed app, such app is
 different from the traditional distributed app. one solution can be installed in different resources such as cloud web service, docker, or k8s,etc.
@@ -27,7 +27,10 @@ how do we know the model is running, we can see this status from dashboard.
 ## deployment
 
 use azure deveploer CLI to do so
+
 >azd init command will collect all necessary deployment parameters and create a deploy.yaml to deploy.
->azd up command will stsrt deployment steps to push entire solution to cloud and implemented it.
+>
+>azd up command will stsrt deployment steps to push entire solution to cloud and implement it.
+>
 >azd monitor will monitor all steps.
 
