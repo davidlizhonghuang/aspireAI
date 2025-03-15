@@ -40,4 +40,5 @@ open web AI agent to input query, LLama returns expected result see below
 
 ![image](https://github.com/user-attachments/assets/fd12edd6-8067-4f34-90d3-ab7d51625995)
 
-
+## integrate build with sonar cloud
+add new project in sonar cloud portal, create ymal in github, commit change to test if sonar cloud works for this project
